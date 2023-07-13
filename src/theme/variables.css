@@ -234,3 +234,22 @@ http://ionicframework.com/docs/theming/ */
     --ion-card-background: #1e1e1e;
   }
 }
+
+
+
+
+ion-input, ion-select, ion-textarea{
+  --border:solid thin #B7950B;
+  --padding:10px;
+
+}
+
+.text-color{
+  color:#7D6608
+}
+.text-bold{
+font-weight:bold;
+}
+.outline{
+border:solid thin #B7950B;
+}
